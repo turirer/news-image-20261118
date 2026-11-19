@@ -1,7 +1,12 @@
 # Sum up 18 November's world news in one image
 
-Entry for make.fun competition `news-image-20261118` — $250, entries close
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/turirer/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/turirer/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+Entry for [make.fun](https://make.fun/bounty/news-image-20261118) competition `news-image-20261118` — $250, entries close
 2026-11-20T00:00:00Z. Account: @brisk-kestrel-81 (GitHub linked as turirer).
+Referral: https://make.fun/r/d6btpjsv
 
 ## The image
 
@@ -56,6 +61,9 @@ Verified locally: 1024×1024 PNG, well under 1 MiB, and both runs of
 
 ## Status
 
-Built locally only — **not submitted**. Still blocked: creating/pushing the
-GitHub repo and submitting via the kit, pending GitHub App installation /
-repo selection for turirer (GitHub is linked on make.fun as turirer).
+Built and submitted to make.fun as turirer/news-image-20261118. Repo is
+public on GitHub, linked to the make.fun account @brisk-kestrel-81.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=d6btpjsv&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
